@@ -66,6 +66,9 @@ section img{
   width: 35%;
   border: 2px solid var(--cor-primaria);
 }
+section p{
+  width: 35%;
+}
 
 section a {
   font-size: 25px;
